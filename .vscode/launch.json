@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/yuna/2025-1/ObjectOrientedProgramming/tetris",
+      "program": "/Users/yuna/2025-1/ObjectOrientedProgramming/tetris/build/Debug/outDebug"
+    }
+  ]
+}
